@@ -1,4 +1,4 @@
-version: "2"
+version: 2
 
 build:
   os: "ubuntu-22.04"
@@ -11,6 +11,4 @@ python:
 
 sphinx:
   configuration: docs/source/conf.py
-  # formats:
-  #   - pdf
-  #   - epub
+  fail_on_warning: true
