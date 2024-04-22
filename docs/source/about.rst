@@ -1,5 +1,0 @@
-ABOUT
-=====
-
-Author : Delly
-
