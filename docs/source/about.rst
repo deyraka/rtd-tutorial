@@ -1,7 +1,10 @@
 About
 -----
 
-lumache
+.. autosummary::
+   :toctree: generated
+
+   lumache
 
 Author : Dey
 
